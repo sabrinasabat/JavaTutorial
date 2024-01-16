@@ -7,6 +7,9 @@ public class Arrays {
 
 	public static void main(String[] args) {
 		// ejercicios con arrays
+		// Creando un conflicto en GIT
+		// Sabrina Sabat
+
 		
 		final byte Numero = 6; //Constante a usar 
 		int k = 0; //contador de proposito general
