@@ -11,7 +11,7 @@ public class CadenasCaracteres {
 		String cadena1 = "";
 		String cadena2 = "";
 		Scanner entradachar = new Scanner(System.in);
-		
+		// Comentario
 		// Código
 		System.out.print("Teclea primer string : ");
 		cadena1 = entradachar.nextLine();

@@ -7,7 +7,7 @@ public class Arrays {
 
 	public static void main(String[] args) {
 		// ejercicios con arrays
-		
+		// Comentario
 		final byte Numero = 6; //Constante a usar 
 		int k = 0; //contador de proposito general
 		
