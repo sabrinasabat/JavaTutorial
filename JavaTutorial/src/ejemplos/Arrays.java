@@ -7,7 +7,14 @@ public class Arrays {
 
 	public static void main(String[] args) {
 		// ejercicios con arrays
-		// Comentario
+
+
+
+		// Creando un conflicto en GIT
+		// Sabrina Sabat
+
+		
+		//github.com/sabrinasabat/JavaTutorial.git
 		final byte Numero = 6; //Constante a usar 
 		int k = 0; //contador de proposito general
 		
